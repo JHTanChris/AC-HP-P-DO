@@ -1,8 +1,0 @@
-# ACDOS-Software-Platform
-Asphalt Concrete Design and Optimization System (ACDOS)
-# Asphalt Concrete Design Optimization Software (ACDOS)
-
-## Overview
-
-The **Asphalt Concrete Design Optimization Software (ACDOS)** is an intelligent software platform for predicting and optimizing the high-temperature performance of asphalt concrete.
-Developed using the **MATLAB R2024b App Designer**, ACDOS integrates data management, Gaussian Process Regression (GPR)–based machine learning prediction, and Bayesian Optimization algorithms into a unified graphical user interface (GUI).
