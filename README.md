@@ -130,7 +130,7 @@ The measured values of **VV** and **VFA** differed by **2.08%** and **-1.89%**, 
 **Figure 2. Laboratory tests for Case 1**
 
 <p align="center">
-  <img src="IMG/2.png" alt="Figure 2a Marshall test" width="48%">
+  <img src="IMG/2.png" alt="Figure 2a Marshall test" width="21%">
   <img src="IMG/3.jpg" alt="Figure 2b Rutting test" width="48%">
 </p>
 
