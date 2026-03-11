@@ -104,7 +104,7 @@ The upper and lower bounds of the sieve passing rates were set according to the 
 
 The optimized asphalt mixture design was experimentally verified. Standard Marshall specimens were prepared using the experimental gradation and the optimized oil-stone ratio, followed by rutting testing.
 
-The measured values of **VV** and **VFA** differed by **2.08%** and **-1.89%**, respectively, from the optimized mix design. The measured average **DS** was **4030.05 cycles/mm**, corresponding to a **4.05%** deviation from the design target.
+The measured values of **VV** and **VFA** differed by **2.08%** and **1.89%**, respectively, from the optimized mix design. The measured average **DS** was **4030.05 times/mm**, corresponding to a **4.05%** deviation from the design target.
 
 **Table 3. Experimental gradation design for Case 1 (SMA-10)**
 
@@ -226,12 +226,12 @@ In this case, the gradation data were not optimized and were restricted to the A
 
 The optimization objective of Case 2 was to select a suitable asphalt and examine the resulting volumetric parameters in auxiliary mixture design. BO indicated that the target asphalt should have a penetration of approximately **66.38 (0.1 mm)** and a softening point of approximately **81.3°C**. According to these requirements, the selected asphalt product was **“Zhonghong Odorless Rubberized Asphalt (30 wt% ICAM-0)”**, manufactured by **Jiangsu Zhonghong Environmental Protection Technology Co., Ltd., China**.
 
-Laboratory tests were then conducted to verify the asphalt properties, followed by Marshall and rutting tests on the designed mixture. The measured values of **VV** and **VFA** differed by **3.51%** and **1.35%**, respectively, from the optimized design. The measured average **DS** was **5188.25 cycles/mm**, corresponding to a **3.77%** deviation from the design target.
+Laboratory tests were then conducted to verify the asphalt properties, followed by Marshall and rutting tests on the designed mixture. The measured values of **VV** and **VFA** differed by **3.51%** and **1.35%**, respectively, from the optimized design. The measured average **DS** was **5188.25 times/mm**, corresponding to a **3.77%** deviation from the design target.
 
 **Figure 3. Laboratory tests for Case 2**
 
 <p align="center">
-  <img src="IMG/4.jpg" alt="Figure 3a Penetration test" width="48%">
+  <img src="IMG/4.jpg" alt="Figure 3a Penetration test" width="35%">
   <img src="IMG/5.jpg" alt="Figure 3b Softening point test" width="48%">
 </p>
 
@@ -260,11 +260,11 @@ Laboratory tests were then conducted to verify the asphalt properties, followed 
 
 | Test number | d45 (mm) | d60 (mm) | DS test result (times/mm) |
 | ----------- | -------: | -------: | ------------------------: |
-| 1           |    1.343 |    1.472 |                4883.72093 |
-| 2           |    1.156 |    1.272 |               5431.034483 |
+| 1           |    1.343 |    1.472 |                    4883.7 |
+| 2           |    1.156 |    1.272 |                      5431 |
 | 3           |    1.198 |    1.318 |                      5250 |
 
-**Average DS:** **5188.25 times/mm**
+**Average DS:** **5188.23 times/mm**
 
 ---
 
@@ -330,6 +330,10 @@ ACDOS V1.0 uses MATLAB-compatible data structures for model training and predict
 
 * Installer: [`ACDOS_V1.mlappinstall`](./ACDOS_V1.mlappinstall)
 
+## 3.6 License and Citation 
+
+* ACDOS has been registered under the **Computer Software Copyright of the People’s Republic of China**. All rights reserved by the authors. The source code and compiled installer are made available for academic and research purposes only. If you use ACDOS in your research, please cite the corresponding publication or this repository.
+
 ---
 
 <a id="part4"></a>
@@ -353,7 +357,7 @@ Figures 4-3 and 4-4 show the procedure for importing a new data row through the 
   <img src="IMG/4-4.png" alt="Figure 4-4" width="48%">
 </p>
 <p align="center">
-  <img src="IMG/4-5.jpg" alt="Figure 4-5" width="72%">
+  <img src="IMG/4-5.jpg" alt="Figure 4-5" width="20%">
 </p>
 
 ### 4.2 Model Module Demonstration
@@ -380,7 +384,7 @@ Figure 4-9 shows the use of the auxiliary parameter calculation tool, where the 
   <img src="IMG/4-11.png" alt="Figure 4-11" width="48%">
 </p>
 <p align="center">
-  <img src="IMG/4-12.png" alt="Figure 4-12" width="72%">
+  <img src="IMG/4-12.png" alt="Figure 4-12" width="50%">
 </p>
 
 ### 4.4 Optimization Module Demonstration
